@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There, I am Jigna 👋
 
 <!--
 **jmps967/jmps967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
