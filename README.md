@@ -1,4 +1,4 @@
-### Hi There, I am <font color='blue'>**Jigna Thacker**</font>👋
+### Hi There, I am [Jigna Thacker](https://JignaT.github.io) 👋
 
 I am a working as a Group Director Analytics in leading Market Research Company "Kantar-Worldpanle Division". 
 
