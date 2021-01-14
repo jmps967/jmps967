@@ -1,6 +1,6 @@
 ### Hi There, I am [Jigna Thacker](https://JignaT.github.io) 👋
 
-I am a working as a Group Director Analytics in leading Market Research Company "Kantar-Worldpanle Division". 
+I am a working as a Group Director Analytics in leading Market Research Company ["Kantar-Worldpanle Division"](https://www.kantarworldpanel.com/global). 
 
 At acadmic front I have double masters : 
 - Masters in Statistics 
@@ -17,7 +17,7 @@ Strong believer in giving back to community and running ["Learn-On-Go"](https://
   <img align="left" alt="Jigna's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://twitter.com/Jigna0808">
-  <img align="left" alt="Jigna's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Jigna's Twitter" width="22px" src="https://github.com/jmps967/jmps967/blob/master/Image/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCWwRhj-sx5AA4aqJhh0aEuA">
   <img align="left" alt="Jigna's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
