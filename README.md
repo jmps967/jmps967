@@ -25,7 +25,9 @@ Strong believer in giving back to community and running ["Learn-On-Go"](https://
 <br/>
 <br/>
 
+[![Jigna's github stats](https://github-readme-stats.vercel.app/api?username=jmps967&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=jmps967&style=flat-square)
 
 <!--
 **jmps967/jmps967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
