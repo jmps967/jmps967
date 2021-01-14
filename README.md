@@ -16,7 +16,7 @@ Strong believer in giving back to community and running ["Learn-On-Go"](https://
 <a href="https://twitter.com/Jigna0808">
   <img align="left" alt="Jigna's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="(https://www.linkedin.com/in/jignathacker08">
+<a href="https://www.linkedin.com/in/jignathacker08">
   <img align="left" alt="Jigna's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/jmps967">
