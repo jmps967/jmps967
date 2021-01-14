@@ -19,6 +19,10 @@ Strong believer in giving back to community and running ["Learn-On-Go"](https://
 <a href="https://twitter.com/Jigna0808">
   <img align="left" alt="Jigna's Twitter" width="22px" src="https://github.com/jmps967/jmps967/blob/master/Image/twitter.svg" />
 </a>
+<a href="https://www.kaggle.com/jmps967">
+  <img align="left" alt="Jigna's Kaggle" width="22px" src="https://github.com/jmps967/jmps967/blob/master/Image/Kaggle.svg" />
+  
+</a>
 <a href="https://www.youtube.com/channel/UCWwRhj-sx5AA4aqJhh0aEuA">
   <img align="left" alt="Jigna's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
