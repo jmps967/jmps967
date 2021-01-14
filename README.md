@@ -8,7 +8,7 @@ At acadmic front I have double masters :
 
 Passionate professional and love to deep dive in data.  Data science and Machine learning practitioner and AI enthusiasm. By Nature keen to research and explore untapped areas.
 Welling to learn and being available as a mentor for the one who wants to explore this field. 
-Strong believer in giving back to community and running ["Learn-On-Go"](https://www.linkedin.com/groups/13913721/) group in LinkedIn
+Strong believer in giving back to community and running ["Learn-On-Go"](https://www.linkedin.com/groups/13913721/) group on LinkedIn
 
 <a href="https://github.com/jmps967">
   <img align="left" alt="Jigna's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
