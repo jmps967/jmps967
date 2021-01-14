@@ -11,7 +11,7 @@ Welling to learn and being available as a mentor for the one who wants to explor
 Strong believer in giving back to community and running ["Learn-On-Go"](https://www.linkedin.com/groups/13913721/) group in LinkedIn
 
 <a href="https://www.linkedin.com/in/jignathacker08">
-  <img align="left" alt="Jigna's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+  <img align="left" alt="Jigna's LinkedIn" width="22px" src="https://github.com/jmps967/jmps967/blob/master/Image/LinkedIn.svg" />
 </a>
 <a href="https://github.com/jmps967">
   <img align="left" alt="Jigna's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
