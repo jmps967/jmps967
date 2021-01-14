@@ -28,15 +28,15 @@ Strong believer in giving back to community and running ["Learn-On-Go"](https://
 <br/>
 <br/>
 
+
+<!--
+**jmps967/jmps967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Jigna's github Statistics](https://github-readme-stats.vercel.app/api?username=jmps967&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmps967&layout=compact&theme=material-palenight" />
 
 ![](https://komarev.com/ghpvc/?username=jmps967&style=flat-square)
 </a>
-
-<!--
-**jmps967/jmps967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
