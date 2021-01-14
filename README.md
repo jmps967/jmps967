@@ -10,6 +10,21 @@ Passionate professional and love to deep dive in data.  Data science and Machine
 Welling to learn and being available as a mentor for the one who wants to explore this field. 
 Strong believer in giving back to community and running ["Learn-On-Go"](https://www.linkedin.com/groups/13913721/) group in LinkedIn
 
+<a href="https://www.youtube.com/channel/UCWwRhj-sx5AA4aqJhh0aEuA">
+  <img align="left" alt="Jigna's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://twitter.com/Jigna0808">
+  <img align="left" alt="Jigna's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="(https://www.linkedin.com/in/jignathacker08">
+  <img align="left" alt="Jigna's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/jmps967">
+  <img align="left" alt="Jigna's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/>
+<br/>
+
 
 
 <!--
