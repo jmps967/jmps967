@@ -1,6 +1,7 @@
 ### Hi There, I am Jigna Thacker 👋
 
-I am a working as a Group Director Analyst in leading Market Research Company "Kantar-Worldpanle Division". 
+I am a working as a Group Director Analytics in leading Market Research Company "Kantar-Worldpanle Division". 
+
 At acadmic front I have double masters : 
 - Masters in Statistics 
 - Master in Population Science
