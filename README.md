@@ -28,6 +28,8 @@ Strong believer in giving back to community and running ["Learn-On-Go"](https://
 <br/>
 <br/>
 
+![](https://komarev.com/ghpvc/?username=jmps967&style=flat-square)
+</a>
 
 <!--
 **jmps967/jmps967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
