@@ -1,14 +1,23 @@
 ### Hi There, I am [Jigna Thacker](https://JignaT.github.io) 👋
 
-I am a working as a Group Director Analytics in leading Market Research Company ["Kantar-Worldpanle Division"](https://www.kantarworldpanel.com/global). 
+I am currently associated with a leading Market Research Company ["Kantar-Worldpanle Division"](https://www.kantarworldpanel.com/global), jointly owned by Bain Capital & WPP. 
+My role here is a Group Director Analytics. 
 
 At acadmic front I have double masters : 
 - Masters in Statistics 
 - Master in Population Science
 
+Achivements:
+- Successfully completed 3 years Global Leadership program of Kantar called **Rising Leader**.
+- 
+
 Passionate professional and love to deep dive in data.  Data science and Machine learning practitioner and AI enthusiasm. By Nature keen to research and explore untapped areas.
 Welling to learn and being available as a mentor for the one who wants to explore this field. 
 Strong believer in giving back to community and running ["Learn-On-Go"](https://www.linkedin.com/groups/13913721/) group on LinkedIn
+
+<a href="https://blog.insaid.co/meet-jigna-thacker-from-kantar-worldpanel/">
+  <img align="left" alt="Jigna's Blog" width="22px" src="https://github.com/jmps967/jmps967/blob/master/Image/INSAID.png" />
+</a>
 
 <a href="https://github.com/jmps967">
   <img align="left" alt="Jigna's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
