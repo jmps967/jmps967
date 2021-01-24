@@ -9,7 +9,7 @@ At acadmic front I have double masters :
 
 Achievements:
 - Successfully completed 3 years Global Leadership program of Kantar called **Rising Leader**.
-- Successfully completed "Global Certification in Data Science, **INSAID**
+- Successfully completed **Global Certification in Data Science**, INSAID.
 
 Passionate professional and love to deep dive in data.  
 Data science and Machine learning practitioner and AI enthusiasm. By Nature keen to research and explore untapped areas.
