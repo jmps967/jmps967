@@ -7,7 +7,7 @@ At acadmic front I have double masters :
 - Masters in Statistics 
 - Master in Population Science
 
-Achievements:
+Major achievements:
 - Successfully completed 3 years Global Leadership program of Kantar called **Rising Leader**.
 - Successfully completed **Global Certification in Data Science**, INSAID.
 
