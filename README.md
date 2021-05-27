@@ -55,7 +55,7 @@ Strong believer in giving back to community and running ["Learn-On-Go"](https://
 </a>
 <br/>
 
-* Thank You *
+*Thank You*
 
 </a>
 
