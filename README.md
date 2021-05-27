@@ -10,6 +10,7 @@ At acadmic front I have double masters :
 Major achievements:
 - Successfully completed 3 years Global Leadership program of Kantar called **Rising Leader**.
 - Successfully completed **Global Certification in Data Science**, INSAID.
+- Awarded to "Qualifying in the final innovation list" : The Next Elon Musk Entrepreneurship Challenge 2021 by INSAID. 
 
 Passionate professional and love to deep dive in data.  
 Data science and Machine learning practitioner and AI enthusiasm. By Nature keen to research and explore untapped areas.
