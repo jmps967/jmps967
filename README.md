@@ -12,7 +12,8 @@ Major achievements:
 - Successfully completed **Global Certification in Data Science**, INSAID.
 - Awarded for "Qualifying in the final innovation list" : The Next Elon Musk Entrepreneurship Challenge 2021 by INSAID. 
 
-Passionate professional and love to deep dive in data.  
+**Passionate professional and love to deep dive in data.**
+
 Data science and Machine learning practitioner and AI enthusiasm. By Nature keen to research and explore untapped areas.
 Welling to learn and being available as a mentor for the one who wants to explore this field. 
 
