@@ -1,4 +1,6 @@
-### Hi There, I am [Jigna Thacker](https://github.com/jmps967) 👋
+### Hi There, 
+
+I am [Jigna Thacker](https://github.com/jmps967) 👋
 
 I am currently associated with a leading Market Research Company ["Kantar-Worldpanle Division"](https://www.kantarworldpanel.com/global), jointly owned by Bain Capital & WPP. 
 My role here is a Group Director Analytics. 
