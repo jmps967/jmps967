@@ -39,6 +39,8 @@ Strong believer in giving back to community and running ["Learn-On-Go"](https://
 </a>
 <br/>
 <br/>
+<br/>
+</a>
 
 
 ![](https://komarev.com/ghpvc/?username=jmps967&style=flat-square)
@@ -48,8 +50,15 @@ Strong believer in giving back to community and running ["Learn-On-Go"](https://
 <br/>
 
 [![Jigna's github Statistics](https://github-readme-stats.vercel.app/api?username=jmps967&hide=contribs,prs)](https://github.com/jmps967/github-readme-stats)
+</a>
 
 </a>
+<br/>
+
+* Thank You *
+
+</a>
+
 
 <!--
 **jmps967/jmps967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
